@@ -8,9 +8,9 @@ Nessus is a vulnerability scanner that many enterprises and organization use to 
 
 <br />
 
-This lab provides some hands-on experience for enterprise tools used for vulnerability management, which is critical for any organization. 
+This lab provides hands-on experience for enterprise tools used for vulnerability management, which is critical for any organization. 
 
-The 5 main staged of the vulnerability management process includes:
+The 5 main stages of the vulnerability management process includes:
 
 1) Identifying Vulnerabilities
 2) Evaluating Vulnerabilities 
@@ -60,7 +60,7 @@ Most severe vulnerability is "medium". Potential for man-in-the-middle attacks o
 
 ![09_19_22_12_35_45 1](https://user-images.githubusercontent.com/112909705/191394181-3e4ddefb-820d-4e4e-9f15-a0551092858f.png)
 
-Some addition steps needs to be performed to run credentialed scans with non-default Windows Administrator accounts. In other words, accounts that are not on the domain. The tenable link below shows how to configure this.
+Some additional steps need to be performed to run credentialed scans with non-default Windows Administrator accounts. In other words, accounts that are not on the domain. The tenable link below shows how to configure this.
 
 https://community.tenable.com/s/article/Scanning-with-non-default-Windows-Administrator-Account
 
