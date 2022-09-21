@@ -18,9 +18,13 @@
 
 
 
+<h2>Host IP Addresses</h2>
+
+- <b>Nessus Target: 192.168.1.17</b> 
+- <b>Nessus Host: 192.168.1.18</b> 
 
 
-Nessus Target IP: 192.168.1.17
+<h2>Nessus Lab Demonstration</h2>
 
 Nessus Host cannot reach Nessus Target.
 
