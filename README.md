@@ -1,21 +1,30 @@
 <h1>UNDER CONSTRUCTION</h1>
 
-grab screenies and write a proper description
-
 <h1>Nessus</h1>
 
-2 VMs: Windows 10 Enterprise Evaluation 
-"Nessus Host" (Has Nessus Installed)
-"Nessus Target" 
+<h2>Description</h2>
+111111
+<br />
+
+<h2>Utilities Used</h2>
+- <b>Nessus Essentials</b> 
+
+<h2>Environments Used </h2>
+
+- <b>Oracle VirtualBox</b> 
+- <b>Windows 10 (Has Nessus Installed)</b> 
+- <b>Windows 10 (Without Nessus)</b>
+
+
+
+
 
 
 Nessus Target IP: 192.168.1.17
 
-
 Nessus Host cannot reach Nessus Target.
 
 ![09_19_22_12_11_22](https://user-images.githubusercontent.com/112909705/191384959-6a95c215-d274-4b53-b6aa-1416388515f0.png)
-
 
 Changed the Domain, Private, and Public firewall profiles for connectivity. Nessus Host can reach Nessus Target.
 
@@ -90,20 +99,5 @@ Credentialed with all ports, with the older FireFox had 26 criticals and 29 high
 This lab demonstrates why it is important to regularly perform credentialed and non-credentialed scans to remediate risks and keep vulnerabilities in your network as low as possible. One outdated program can create hundreds of possible attack vectors for an attacker. 
 
 
-<h2>Description</h2>
-111111
-<br />
-
-
-<h2>Utilities Used</h2>
-
-- <b>Nessus Essentials</b> 
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> 
-- <b>Oracle VirtualBox</b> 
-
-<h2>11111</h2>
 
 
