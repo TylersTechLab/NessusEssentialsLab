@@ -19,12 +19,13 @@ The 5 main staged of the vulnerability management process includes:
 5) Report Vulnerabilities 
 
 <h2>Utilities Used</h2>
+
 - <b>Nessus Essentials</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Oracle VirtualBox</b> 
-- <b>Windows 10 (Has Nessus Installed)</b> 
+- <b>Windows 10 (Has Nessus installed)</b> 
 - <b>Windows 10 (Without Nessus)</b>
 
 <h2>Host IP Addresses</h2>
