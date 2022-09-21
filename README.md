@@ -3,8 +3,20 @@
 <h1>Nessus</h1>
 
 <h2>Description</h2>
-111111
+
+Nessus is a vulnerability scanner that many enterprises and organization use to help keep their networks secure. The creators, Tenable, describe it as being the No. 1 vulnerability scanning solution in the world. For a 1 Year license of Nessus Expert, costs can range between €6,714.26 and €10,078.13. This lab uses the free version called Nessus Essentials.
+
 <br />
+
+This lab provides some hands-on experience for enterprise tools used for vulnerability management, which is critical for any organization. 
+
+The 5 main staged of the vulnerability management process includes:
+
+1) Identifying Vulnerabilities
+2) Evaluating Vulnerabilities 
+3) Remediating Vulnerabilities 
+4) Verify Vulnerabilities 
+5) Report Vulnerabilities 
 
 <h2>Utilities Used</h2>
 - <b>Nessus Essentials</b> 
@@ -14,9 +26,6 @@
 - <b>Oracle VirtualBox</b> 
 - <b>Windows 10 (Has Nessus Installed)</b> 
 - <b>Windows 10 (Without Nessus)</b>
-
-
-
 
 <h2>Host IP Addresses</h2>
 
@@ -100,7 +109,15 @@ Credentialed with all ports, with the older FireFox had 26 criticals and 29 high
 
 ![09_19_22_14_43_14](https://user-images.githubusercontent.com/112909705/191394664-d10c421d-ddef-4e8b-992c-8237506b0303.png)
 
-This lab demonstrates why it is important to regularly perform credentialed and non-credentialed scans to remediate risks and keep vulnerabilities in your network as low as possible. One outdated program can create hundreds of possible attack vectors for an attacker. 
+<h2>Conclusion</h2>
+
+This lab demonstrates why it is important to regularly perform credentialed and non-credentialed scans to remediate vulnerabilities, to constantly keep risks as low as possible. One outdated program can create hundreds of possible attack vectors for an attacker. Professional vulnerability management tools such as Nessus allow to easily scan your network, find out which ports are open, host OS versions, vulnerable software on the hosts, etc. 
+
+</br>
+
+
+
+
 
 
 
