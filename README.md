@@ -96,7 +96,7 @@ Installing an unsupported version of FireFox on the target to test if Nessus can
 
 ![09_19_22_14_41_03](https://user-images.githubusercontent.com/112909705/191394561-17ba6b3b-0102-4b49-9916-ea56426ef6da.png)
 
-Quick comparison of the different types of scans: 
+<h2>Comparison of Different Scans</h2>
 
 Non-credentialed and common ports had 0 criticals.
 
